@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sklearn
+  - matplotlib
+  - seaborn
+  - pandas
+  - pip
+  - pip:
+    - verta=0.12.0a1
