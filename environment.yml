@@ -9,4 +9,4 @@ dependencies:
   - pandas
   - pip
   - pip:
-    - verta=0.12.0a1
+    - verta==0.12.0a1
